@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+	<Product>
+		<Name>Кувалда</Name>
+		<Articul>M141112</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>Отвертка</Name>
+		<Articul>OT21541</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>Шуруповерт</Name>
+		<Articul>SP90112</Articul>
+		<Count>20</Count>
+	</Product>
+	<Product>
+		<Name>Штукатурка</Name>
+		<Articul/>
+		<Count>-6</Count>
+	</Product>
+	<Product>
+		<Name>Краска акриловая</Name>
+		<Articul>KS5112</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>Садовые ножницы красные</Name>
+		<Articul>SN5122</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>Бензопила</Name>
+		<Articul>B14211</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>Газонокосилка</Name>
+		<Articul>G99001</Articul>
+		<Count>0</Count>
+	</Product>
+	<Product>
+		<Name>NULL</Name>
+		<Articul>NULL</Articul>
+		<Count>7</Count>
+	</Product>
+	<Product>
+		<Name>NULL</Name>
+		<Articul>NULL</Articul>
+		<Count>5</Count>
+	</Product>
+</Product>
