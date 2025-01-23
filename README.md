@@ -1,6 +1,6 @@
 # 1c
 [Работа с файлами](https://github.com/DADUSHKA/1c/tree/master/IRS-Education)
-![Flameshot_Image2025-01-23_1](https://github.com/user-attachments/assets/8d21cb24-a2fc-4b5b-b2fd-50d91ffbb4ae)
+![Flameshot_Image2025-01-23_2](https://github.com/user-attachments/assets/7da509cb-bb39-431d-a7c7-844b89ba05a2)
 
 
 
